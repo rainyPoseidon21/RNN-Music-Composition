@@ -2,7 +2,7 @@
 This project use the Recurrent Neural Network (RNN) with Bi-Directional Gate Recurrent Units (GRU) and Self- Attention layers to learn music composition
 このシステムはリカレントニューラネットワーク（RNN）にGRUユニイトと『SelfーAttention僧』を用いた自動作曲です。
 
-##説明文
+## 説明文
 1. 『Tensorflow 2.0』,『Numpy』,『Music21』、『Pretty＿midi』をローカルにパイトンでインストールすることが必要になります。
 2. 入力データとしてはチョパン曲のMidiファイルを使って、Pretty_midiでピアノロールのようにタイムステップと音符のデータに変換させる。
 3. そして、全ての曲は『Cmaj』キーと『Aminor』　キーに変換させます。（学習を安くさせるため）
