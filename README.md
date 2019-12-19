@@ -1,5 +1,6 @@
 # RNN-Music-Composition
-This project use the Recurrent Neural Network (RNN) with Bi-Directional Gate Recurrent Units (GRU) and Self- Attention layers to learn music composition
+This project use the Recurrent Neural Network (RNN) with Bi-Directional Gate Recurrent Units (GRU) and Self- Attention layers to learn music composition.
+
 このシステムはリカレントニューラネットワーク（RNN）にGRUユニイトと『SelfーAttention僧』を用いた自動作曲です。
 
 ## 説明文
